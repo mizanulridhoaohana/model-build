@@ -5,3 +5,4 @@ Semakin baik hasil accuracy maka semakin baik juga proses preprocessing yang sud
 
 Note:
 - Biasanya setelah melakukan preprocessing dataset, nilai accuracy akan lebih baik daripada sebelum dilakukan preprocessing.
+- Setiap kelompok tidak diwajibkan untuk mendapatkan hasil accuracy yang tinggi
